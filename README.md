@@ -1,3 +1,3 @@
 # Stag: The Savior
 
-![Alt Text](imgs/familiar.gif)
+![Familiar do Stag](imgs/familiar.gif)
